@@ -8,6 +8,8 @@ Alterar o arquivo .env para suas informações, criar um banco de dados e adicio
 
 executar um composer update para baixar as dependencias
 
+php artisan migrate para exececutar a migration de carros
+
 ## Instruções para o VueJs
 
 Instalar as dependencias do vue
